@@ -2,9 +2,9 @@
 // Require.js allows us to configure shortcut alias
 require.config({
 	paths: {
-	    jquery: 'libs/jquery.min',
-	    underscore: 'libs/underscore-min',
-	    backbone: 'libs/backbone-min',
+	    jquery: '//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min',
+	    underscore: '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min',
+	    backbone: '//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.1/backbone-min',
 	    templates: '../templates'
 	}
 
